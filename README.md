@@ -1,4 +1,4 @@
 - Hi, I’m Anju Yajjala!
 - Undergrad at IIIT Kottayam  
-- Passionate about Electronics, VLSI, FPGA, and Machine Learning   
+- Passionate about Electronics, VLSI, FPGA, IOT and Machine Learning   
 - Love working on hardware projects, digital circuit optimization, and AI-driven embedded systems  
